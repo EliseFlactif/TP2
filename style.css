@@ -1,3 +1,7 @@
+body {
+    background-color: cadetblue;
+}
+
 #container
 {
 	margin: 0 30px;
@@ -6,7 +10,7 @@
 
 #header
 {
-	background: #ccc;
+	background-color: antiquewhite;
 	padding: 20px;
 }
 
@@ -45,6 +49,7 @@
 
 #edito
 {
+   
 	clear: left;
 	padding: 20px;
 	margin: 20px;
